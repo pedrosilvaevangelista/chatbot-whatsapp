@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "^6.17.16",
+    "dotenv": "^16.5.0",
+    "joi": "^17.13.3",
+    "moment": "^2.30.1",
+    "moment-timezone": "0.5.45",
+    "node-cache": "^5.1.2",
+    "pino": "^9.6.0",
+    "puppeteer": "^22.15.0",
+    "puppeteer-core": "^22.15.0",
+    "qrcode-terminal": "^0.12.0",
+    "rate-limiter-flexible": "^2.4.2",
+    "winston": "^3.17.0",
+    "ws": "8.18.2"
+  },
+  "devDependencies": {
+    "npm-force-resolutions": "0.0.10",
+    "pino-pretty": "^13.0.0"
+  }
+}
