@@ -1,7 +1,5 @@
 # YouCine WhatsApp Bot
 
-![YouCine Logo](assets/logo.jpeg)
-
 O YouCine WhatsApp Bot é um assistente virtual automatizado para o serviço de streaming YouCine, projetado para fornecer suporte técnico, informações sobre planos, processamento de pagamentos e orientações de instalação diretamente pelo WhatsApp.
 
 ## 📌 Recursos Principais
