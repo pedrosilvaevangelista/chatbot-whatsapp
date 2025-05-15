@@ -81,10 +81,6 @@ youcine-whatsapp-bot/
 └── README.md
 ```
 
-## 📜 Licença
-
-Este projeto é licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
-
 ## ✉️ Contato
 
 Para suporte ou dúvidas, entre em contato com o desenvolvedor.
